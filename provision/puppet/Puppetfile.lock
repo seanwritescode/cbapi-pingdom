@@ -1,0 +1,10 @@
+FORGE
+  remote: https://forgeapi.puppetlabs.com
+  specs:
+    example42-apache (2.1.8)
+      example42-puppi (>= 2.0.0)
+    example42-puppi (2.1.10)
+
+DEPENDENCIES
+  example42-apache (>= 0)
+
