@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <?php header("Content-type:text/xml"); ?>
 <pingdom_http_custom_check>
 
